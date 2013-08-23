@@ -18,3 +18,6 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# Sigh why Github gitignore doesn't have this crappy DS_Store
+.DS_Store
